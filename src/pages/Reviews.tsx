@@ -1,5 +1,3 @@
-import React from 'react'
-
 const reviews = [
   { id: 1, name: 'Ava', text: 'Love the chamomile tea — so calming.' },
   { id: 2, name: 'Noah', text: 'Fast shipping and great service.' },
